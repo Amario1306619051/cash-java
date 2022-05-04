@@ -15,3 +15,4 @@ public enum EnforcementLevel {
         return name().toLowerCase(Locale.ENGLISH);
     }
 }
+
